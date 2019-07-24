@@ -1,0 +1,120 @@
+
+
+#page-nav {
+    
+display: flex;
+margin-bottom: 10px;
+text-decoration: none;
+
+}
+
+#page-nav a{
+    font-family: arial, sans-serif;
+   text-decoration: none; 
+    padding: 10px;
+}
+
+
+
+.image {
+    
+ background-image:url(/img/background.jpg);  
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    height: 400px;
+    padding-bottom:0;
+}
+
+.logo {
+margin: 10px;
+}
+
+.logo img {
+    margin: 10px;
+    padding-top: 20px;
+    width: 30%; 
+    
+    
+}
+
+.nav a:hover{
+color: cornflowerblue;
+    
+}
+
+
+
+
+
+
+h1{
+    font-family:   arial, sans-serif;
+color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: -300px;
+    margin-bottom: 300px;
+}
+
+.skills{
+    padding: 2rem;
+    display: flex;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+
+    
+    
+    
+   
+}
+
+
+.myskills{
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: purple;
+}
+
+
+button:hover{
+    background-color: blue;  
+}
+
+
+button:onclick{
+    background-color: aqua;
+    
+}
+
+
+button{
+ border-radius: 10px;
+    background-color: white;
+    color: black;
+    
+    
+      
+}
+
+
+.buttons {
+    margin: 2rem;
+    justify-content: center;
+    display: flex;
+    
+  
+}
+
+h2{
+    font-family: century-gothic, sans-serif;
+    color: white;
+    text-align: center;
+    padding: 4rem;
+}   
+    
+}
